@@ -70,7 +70,7 @@ const Login = () => {
             </div>
 
             <div style={{ marginTop: "50px" }}>
-              <p>Register your account</p>
+              <p>Login to your account</p>
               <MDBInput
                 wrapperClass="mb-4"
                 label="username/email"

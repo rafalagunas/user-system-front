@@ -67,7 +67,7 @@ const Admin = () => {
             </div>
 
             <div style={{ marginTop: "50px" }}>
-              <p>Register your account</p>
+              <p>Administrator login</p>
               <MDBInput
                 wrapperClass="mb-4"
                 label="username/email"
